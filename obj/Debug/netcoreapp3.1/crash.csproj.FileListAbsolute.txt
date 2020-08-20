@@ -1,0 +1,12 @@
+/Users/nahidul/RiderProjects/crash/crash/bin/Debug/netcoreapp3.1/crash.deps.json
+/Users/nahidul/RiderProjects/crash/crash/bin/Debug/netcoreapp3.1/crash.runtimeconfig.json
+/Users/nahidul/RiderProjects/crash/crash/bin/Debug/netcoreapp3.1/crash.runtimeconfig.dev.json
+/Users/nahidul/RiderProjects/crash/crash/bin/Debug/netcoreapp3.1/crash.dll
+/Users/nahidul/RiderProjects/crash/crash/bin/Debug/netcoreapp3.1/crash.pdb
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.csprojAssemblyReference.cache
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.AssemblyInfoInputs.cache
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.AssemblyInfo.cs
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.csproj.CoreCompileInputs.cache
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.dll
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.pdb
+/Users/nahidul/RiderProjects/crash/crash/obj/Debug/netcoreapp3.1/crash.genruntimeconfig.cache
