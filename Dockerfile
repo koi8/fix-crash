@@ -7,5 +7,6 @@ COPY bin bin/
 COPY notes.txt .
 RUN cp notes.txt "c:\\notes.txt" && \
     chown -R crashapp:crashapp /crashapp
+RUN touch fixed_app
 USER crashapp
 ENTRYPOINT ["dotnet","bin/Debug/netcoreapp3.1/publish/crash.dll"]
